@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Víctor 👋
 
-<!--
-**Vicctor52/Vicctor52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🧠 [Sleep Stage Classification](https://github.com/Vicctor52/Sleep-Stages-Classification)
+*Automatic sleep stage classification from polysomnography (PSG) signals.*
+
+- **What it does:** Predicts 5 sleep stages (Wake, N1, N2, N3, REM) using a combined XGBoost model (multiclass + binary for N1/N2) with a confidence filter.
+- **Key result:** **96.1% accuracy** on high-confidence predictions (50% coverage).
+- **Stack:** Python · XGBoost · YASA · MNE · Scikit-learn
+- 🔗 [View repository](https://github.com/Vicctor52/Sleep-Stages-Classification)
+
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL  
+**Data & ML:** Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn  
+**Signal Processing:** MNE, YASA  
+**Tools:** Git, Jupyter, VS Code
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email:** youremail@example.com
