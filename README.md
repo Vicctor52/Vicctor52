@@ -14,7 +14,6 @@ Passionate about signal processing, time series, and AI applied to healthcare.
 - **What it does:** Predicts 5 sleep stages (Wake, N1, N2, N3, REM) using a combined XGBoost model (multiclass + binary for N1/N2) with a confidence filter.
 - **Key result:** **96.1% accuracy** on high-confidence predictions (50% coverage).
 - **Stack:** Python · XGBoost · YASA · MNE · Scikit-learn
-- 🔗 [View repository](https://github.com/Vicctor52/Sleep-Stages-Classification)
 
 
 ---
