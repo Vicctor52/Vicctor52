@@ -1,6 +1,10 @@
 # Hi, I'm Víctor 👋
 
+**Data Scientist & ML Engineer**  
+I build end-to-end solutions: from raw data to production-ready models.  
+Passionate about signal processing, time series, and AI applied to healthcare.
 
+---
 
 ## 🚀 Featured Projects
 
@@ -26,5 +30,5 @@
 
 ## 📫 Contact
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Email:** youremail@example.com
+- **LinkedIn:** https://www.linkedin.com/in/victor-alvarez-palomares-data/
+- **Email:** az52victor52@gmail.com
