@@ -8,7 +8,7 @@ Passionate about signal processing, time series, and AI applied to healthcare.
 
 ## 🚀 Featured Projects
 
-### 🧠 [Sleep Stages Classification](https://github.com/Vicctor52/Sleep-Stages-Classification)
+### 🧠 [Sleep Stage Classification](https://github.com/Vicctor52/Sleep-Stages-Classification)
 *Automatic sleep stage classification from polysomnography (PSG) signals.*
 
 - **What it does:** Predicts 5 sleep stages (Wake, N1, N2, N3, REM) using a combined XGBoost model (multiclass + binary for N1/N2) with a confidence filter.
